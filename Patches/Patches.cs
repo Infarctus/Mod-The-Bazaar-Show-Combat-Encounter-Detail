@@ -3,7 +3,7 @@ using TheBazaar.UI.Tooltips;
 using TheBazaar.Tooltips;
 using UnityEngine;
 
-using ShowCombatEncounterDetail;
+using ShowCombatEncounterDetail_bepin5;
 
 [HarmonyPatch(typeof(CardTooltipController), "StartTooltipFadeIn")]
 public class Infarctus_Hook_Tooltip_FadeIn
