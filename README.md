@@ -9,7 +9,7 @@ The mod is still a work in progress I've spent a lot of hours on this.(the infor
 This mod is based on [`The Bazaar: Cheat Sheet`](https://jade-dead-e8e.notion.site/The-Bazaar-Cheat-Sheet-13531ff9bda580e19a10c96bb6d9e346#13831ff9bda580a4b8e3d1da20ab4576)
 
 ## Install
-- ### Mod loader
+- ### Mod loader (not needed if you already installed the tracker)
   If you never launched/did an update/reinstalled the game, launch it at least once before continuing (just get to the main menu that's all)  
 
   Download [The latest version of BepInEx 5](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip)  
