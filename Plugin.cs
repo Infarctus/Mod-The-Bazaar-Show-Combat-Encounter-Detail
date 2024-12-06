@@ -1,14 +1,13 @@
 ﻿using BepInEx;
 using BepInEx.Logging;
-using BepInEx.Unity.Mono;
 using System.Collections;
-using UnityEngine;
 using UnityEngine.UI;
 using System.IO;
 using HarmonyLib;
 using System.Reflection;
+using UnityEngine;
 
-namespace ShowCombatEncounterDetail;
+namespace ShowCombatEncounterDetail_bepin5;
 
 [BepInPlugin(MyPluginInfo.PLUGIN_GUID, MyPluginInfo.PLUGIN_NAME, MyPluginInfo.PLUGIN_VERSION)]
 public class InfarctusPluginCombatEncounterInfo : BaseUnityPlugin
