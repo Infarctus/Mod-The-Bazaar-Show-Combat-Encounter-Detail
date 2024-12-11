@@ -5,6 +5,9 @@ This mod shows combat encounter information when hovering them :
 - Skills
 - Items & item description  
 
+## Mod has been moved to the [BazaarTracker](https://www.overwolf.com/app/Sebastien_Tromp-BazaarTracker) ﻿and will be updated there. This github is no longer maintained
+
+
 The mod is still a work in progress I've spent a lot of hours on this.(the information has not been updated to latest patch)  
 This mod is based on [`The Bazaar: Cheat Sheet`](https://jade-dead-e8e.notion.site/The-Bazaar-Cheat-Sheet-13531ff9bda580e19a10c96bb6d9e346#13831ff9bda580a4b8e3d1da20ab4576)
 
