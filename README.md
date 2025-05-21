@@ -1,4 +1,4 @@
-## Tempo has decided to do everything they can against this, so no longer continued nor supported it be this mod or the tracker
+# Tempo has decided to do everything they can against this, so no longer continued nor supported it be this mod or the tracker
 
 
 You can join the bazaar modding discord server : https://discord.gg/88z59mUkhn
